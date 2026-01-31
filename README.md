@@ -2,6 +2,10 @@
 
 A lightweight, flat-file PHP imageboard system designed for shared hosting environments.
 
+## Updates
+
+See the versions section of thr wiki for the latest files.
+
 ## Features
 
 - **Flat-File Storage** - No database required, all data stored in JSON files
