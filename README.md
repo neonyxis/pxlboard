@@ -2,6 +2,8 @@
 
 A lightweight, flat-file PHP imageboard system designed for shared hosting environments.
 
+![IMG_4052.jpeg](IMG_4052.jpeg)
+
 ## Updates
 
 See the versions section of thr wiki for the latest files.
